@@ -1,0 +1,76 @@
+.topnv
+{
+background-color: #F4F4F4;
+min-height: 66px;
+height:30px;
+white-space: nowrap;
+margin: 0 auto;
+position: relative;
+}
+
+.topnv .navcontent
+{
+position: relative;
+padding: 10.5px 21px;
+margin: 0 auto;
+margin-top: -10px;
+max-width: 1138px;
+}
+
+.topnv .navcontent a
+{
+text-transform: uppercase;
+color: #292420;
+text-decoration: none;
+margin: 0 21px 0 0;
+font-size: 14px;
+}
+
+.carousel slide
+{
+  height: 50%;
+}
+
+.carousel-inner
+{
+  height: 50%;
+}
+
+.aaa
+{
+  height:40%;
+}
+
+form
+{
+  margin-top: 4%;
+  border:1px solid black;
+   width:30%;
+   margin-left:35%;
+}
+input[type="text"]:focus{
+  background-color: #E9967A;
+}
+input[type="password"]:focus{
+  background-color: #E9967A;
+}
+
+table{
+  border:1px solid black;
+}
+.postdisplay{
+  width: auto;
+background-color: #fff;
+padding: 8px 12px;
+border-left: 4px solid #4CAF50;
+word-wrap: break-word;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
